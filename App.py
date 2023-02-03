@@ -33,5 +33,5 @@ def calculate():
  
     st.success(f"Answer = {ans}")
   
-  if st.button("Calculate result"):
-       calculate()
+    if st.button("Calculate result"):
+        calculate()
